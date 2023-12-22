@@ -1,0 +1,33 @@
+.responses-management-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .responses-list {
+    display: flex;
+    flex-direction: column;
+    width: 80%; 
+    max-width: 800px; 
+  }
+  
+  .response-item {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  a {
+    color: #4caf50;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
