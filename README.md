@@ -1,3 +1,56 @@
+# React Firebase Job Portal
+
+A job portal application built with React and Firebase, allowing users to create job listings, apply for jobs, and manage responses.
+
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Firebase Configuration](#firebase-configuration)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+## Features
+
+- **User Authentication:**
+  - Sign up and log in securely using Firebase Authentication.
+- **Job Listings:**
+  - Create job listings with details such as title, description, and requirements.
+  - Each job listing has a unique link for applicants.
+- **Job Application:**
+  - Allow users to apply for a job using the generated link.
+- **Responses Management:**
+  - View and manage responses for specific job listings.
+- **Notification System:**
+  - Real-time notifications for logged-in users.
+  - Notification history for reviewing past notifications.
+
+## Prerequisites
+
+- Node.js and npm installed on your machine.
+- Firebase project set up with Authentication and Firestore.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/ajay231102/hiring_portal_challenge_codepth.git
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
